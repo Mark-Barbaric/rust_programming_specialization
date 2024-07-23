@@ -10,4 +10,8 @@ fn main() {
     println!("Original string: {s}", s=string1);
     let split = string_functions::split_string(string1, ',', 1);
     println!("Split string: {s}", s=split);
+    println!("Reading nums from user");
+    let user_nums = number_functions::read_numbers_from_user();
+    println!("Printing user numbers");
+    number_functions::process_numbers(&user_nums);
 }
