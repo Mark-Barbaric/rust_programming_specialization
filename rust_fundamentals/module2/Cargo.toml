@@ -1,5 +1,6 @@
 [workspace]
 members = [
+    'function_basics',
     'new_bin',
     'new_lib',
     'variables',
