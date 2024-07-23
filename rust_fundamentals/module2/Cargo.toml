@@ -2,6 +2,7 @@
 members = [
     'new_bin',
     'new_lib',
-    'variables'
+    'variables',
+    'loops'
     ]
 resolver = "2"
