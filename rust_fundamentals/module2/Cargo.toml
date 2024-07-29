@@ -4,6 +4,5 @@ members = [
     'new_bin',
     'new_lib',
     'variables',
-    'loops'
-    , "borrowing"]
+    'loops', "borrowing", "panic", "match_example"]
 resolver = "2"
