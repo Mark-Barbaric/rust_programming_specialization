@@ -5,5 +5,5 @@ members = [
     'new_lib',
     'variables',
     'loops'
-    ]
+    , "borrowing"]
 resolver = "2"
